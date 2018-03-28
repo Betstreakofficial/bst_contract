@@ -84,7 +84,7 @@ contract StandardToken is Token {
     uint256 public totalSupply;
 }
 
-contract BetstreakToken is StandardToken { // CHANGE THIS. Update the contract name.
+contract BST is StandardToken { // CHANGE THIS. Update the contract name.
 
     /* Public variables of the token */
 
